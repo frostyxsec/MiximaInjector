@@ -211,5 +211,5 @@ Mixima/
 
 ## Credits
 
-**@Frostyxsec** — Original Mixima Toolkit
-ReVanced team — Universal patches & revanced-cli
+- **@frostyxsec** — Original Mixima Toolkit
+- **@ReVanced** — Universal patches & revanced-cli
